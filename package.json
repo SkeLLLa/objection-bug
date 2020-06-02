@@ -1,0 +1,19 @@
+{
+  "name": "objection-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.21.1",
+    "objection": "^2.1.5",
+    "objection-guid": "^3.0.2",
+    "objection-timestamps": "^4.0.0",
+    "pg": "^8.2.1"
+  }
+}
