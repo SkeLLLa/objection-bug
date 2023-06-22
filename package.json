@@ -14,6 +14,6 @@
     "objection": "^2.1.5",
     "objection-guid": "^3.0.2",
     "objection-timestamps": "^4.0.0",
-    "pg": "^8.2.1"
+    "pg": "^8.11.0"
   }
 }
