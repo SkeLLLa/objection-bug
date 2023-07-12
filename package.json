@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "knex": "^0.21.1",
-    "objection": "^2.1.5",
+    "objection": "^2.2.16",
     "objection-guid": "^3.0.2",
     "objection-timestamps": "^4.0.0",
     "pg": "^8.2.1"
